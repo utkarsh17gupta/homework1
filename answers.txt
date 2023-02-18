@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+merge executes only one new commit. rebase typically executes multiple commits. 
